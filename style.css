@@ -1,6 +1,6 @@
 body { 
     margin: 2%;
-    background-color: #000;
+    background-color: rgb(100, 100, 100);
     color: #fff;
     font-family: sunset;
 }
@@ -21,6 +21,14 @@ h1 {
     font-weight: bold;
     text-align: center;
 }
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
 
 button {
     padding: 1.7%;
